@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="045ad3bc-9e87-44d2-831a-3641a6d24390" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/controllers/PeopleController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/dao/PersonDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685473848582</updated>
       <workItem from="1685473849966" duration="2819000" />
-      <workItem from="1685524443787" duration="6814000" />
+      <workItem from="1685524443787" duration="8045000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add config classes&quot;">
       <created>1685530213324</created>
@@ -177,7 +177,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685530213324</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;add PeopleController&quot;">
+      <created>1685539578459</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685539578459</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;add Person class&quot;">
+      <created>1685539751976</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685539751976</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +199,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;add config classes&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;add config classes&quot;" />
+    <MESSAGE value="&quot;add PeopleController&quot;" />
+    <MESSAGE value="&quot;add Person class&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;add Person class&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
