@@ -10,10 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="045ad3bc-9e87-44d2-831a-3641a6d24390" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/new.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/controllers/PeopleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/controllers/PeopleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/dao/PersonDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/models/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/models/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685473848582</updated>
       <workItem from="1685473849966" duration="2819000" />
-      <workItem from="1685524443787" duration="11236000" />
+      <workItem from="1685524443787" duration="12159000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add config classes&quot;">
       <created>1685530213324</created>
@@ -214,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685543007580</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&quot;add create and newPerson methods&quot;">
+      <created>1685548088387</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685548088387</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,7 +232,8 @@
     <MESSAGE value="&quot;add PersonDAO class&quot;" />
     <MESSAGE value="&quot;change PeopleController class&quot;" />
     <MESSAGE value="&quot;add people/index.html and people/show.html&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;add people/index.html and people/show.html&quot;" />
+    <MESSAGE value="&quot;add create and newPerson methods&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;add create and newPerson methods&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
