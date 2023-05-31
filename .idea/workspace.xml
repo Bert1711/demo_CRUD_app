@@ -10,9 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="045ad3bc-9e87-44d2-831a-3641a6d24390" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/show.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/controllers/PeopleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/controllers/PeopleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/dao/PersonDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -169,7 +169,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685473848582</updated>
       <workItem from="1685473849966" duration="2819000" />
-      <workItem from="1685524443787" duration="8606000" />
+      <workItem from="1685524443787" duration="9900000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add config classes&quot;">
       <created>1685530213324</created>
@@ -199,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685540980250</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&quot;change PeopleController class&quot;">
+      <created>1685541563266</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685541563266</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +217,8 @@
     <MESSAGE value="&quot;add PeopleController&quot;" />
     <MESSAGE value="&quot;add Person class&quot;" />
     <MESSAGE value="&quot;add PersonDAO class&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;add PersonDAO class&quot;" />
+    <MESSAGE value="&quot;change PeopleController class&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;change PeopleController class&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
