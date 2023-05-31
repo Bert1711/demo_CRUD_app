@@ -9,7 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="045ad3bc-9e87-44d2-831a-3641a6d24390" name="Changes" comment="" />
+    <list default="true" id="045ad3bc-9e87-44d2-831a-3641a6d24390" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/people/show.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,7 +169,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685473848582</updated>
       <workItem from="1685473849966" duration="2819000" />
-      <workItem from="1685524443787" duration="16037000" />
+      <workItem from="1685524443787" duration="16849000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add config classes&quot;">
       <created>1685530213324</created>
@@ -237,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685554845982</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="&quot;add Hidden Http Method Filter&quot;">
+      <created>1685555041093</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685555041093</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,7 +265,8 @@
     <MESSAGE value="&quot;add form:&quot;people/new.html&quot;&quot;" />
     <MESSAGE value="&quot;change form:&quot;people/new.html&quot;&quot;" />
     <MESSAGE value="&quot;add edit and update methods of controllers. create edit.html&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;add edit and update methods of controllers. create edit.html&quot;" />
+    <MESSAGE value="&quot;add Hidden Http Method Filter&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;add Hidden Http Method Filter&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
