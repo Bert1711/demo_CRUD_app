@@ -16,6 +16,7 @@ import org.thymeleaf.spring5.view.ThymeleafViewResolver;
 @ComponentScan("ru.zrn.CRUDapp")
 @EnableWebMvc
 public class SpringConfig implements WebMvcConfigurer {
+
     private final ApplicationContext applicationContext;
 
     @Autowired
