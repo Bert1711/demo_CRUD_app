@@ -10,9 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="045ad3bc-9e87-44d2-831a-3641a6d24390" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/dao/PersonDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -202,7 +200,7 @@
       <workItem from="1685524443787" duration="18908000" />
       <workItem from="1685617790736" duration="1866000" />
       <workItem from="1685621245687" duration="5301000" />
-      <workItem from="1685782870049" duration="14521000" />
+      <workItem from="1685782870049" duration="17196000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add config classes&quot;">
       <created>1685530213324</created>
@@ -295,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685794989829</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="&quot;implemented the &quot;index&quot; method in the Person class&quot;">
+      <created>1686052098537</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686052098537</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +320,8 @@
     <MESSAGE value="&quot;add Hidden Http Method Filter&quot;" />
     <MESSAGE value="&quot;change edit.html&quot;" />
     <MESSAGE value="&quot;add validation&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;add validation&quot;" />
+    <MESSAGE value="&quot;implemented the &quot;index&quot; method in the Person class&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;implemented the &quot;index&quot; method in the Person class&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
