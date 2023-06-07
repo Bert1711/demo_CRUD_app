@@ -46,6 +46,6 @@ public class PersonDAO {
     }
 
     public void delete(int id) {
-        people.removeIf(person -> person.getId() == id);
+        jdbcTemplate.update("DELETE FROM Person WHERE id=?", id);
     }
 }
