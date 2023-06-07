@@ -10,7 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="045ad3bc-9e87-44d2-831a-3641a6d24390" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/dao/PersonDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/config/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/config/SpringConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +94,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General",
     "spring.configuration.checksum": "b282559d815ece2b61154f29c03d05df",
     "vue.rearranger.settings.migration": "true"
   },
@@ -309,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686158510867</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="&quot;change 'delete' method from PersonDAO class &quot;">
+      <created>1686158702967</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1686158702967</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,7 +341,8 @@
     <MESSAGE value="&quot;initial commit&quot;" />
     <MESSAGE value="&quot;change 'index' method from PersonDAO class &quot;" />
     <MESSAGE value="&quot;change 'show', 'save' and 'update' methods from PersonDAO class &quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;change 'show', 'save' and 'update' methods from PersonDAO class &quot;" />
+    <MESSAGE value="&quot;change 'delete' method from PersonDAO class &quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;change 'delete' method from PersonDAO class &quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
