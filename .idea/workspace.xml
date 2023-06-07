@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="045ad3bc-9e87-44d2-831a-3641a6d24390" name="Changes" comment="&quot;change edit.html&quot;">
+    <list default="true" id="045ad3bc-9e87-44d2-831a-3641a6d24390" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zrn/CRUDapp/dao/PersonDAO.java" afterDir="false" />
     </list>
@@ -296,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686061416609</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="&quot;change 'index' method from PersonDAO class &quot;">
+      <created>1686156846794</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686156846794</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +323,8 @@
     <MESSAGE value="&quot;add Hidden Http Method Filter&quot;" />
     <MESSAGE value="&quot;change edit.html&quot;" />
     <MESSAGE value="&quot;initial commit&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;initial commit&quot;" />
+    <MESSAGE value="&quot;change 'index' method from PersonDAO class &quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;change 'index' method from PersonDAO class &quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
